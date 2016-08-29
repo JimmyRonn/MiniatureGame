@@ -58,3 +58,11 @@ Debug/vc140.idb
 Debug/MiniatureGame.ilk
 *.3ds
 models/star-wars-x-wing.blend
+*.suo
+MiniatureGame.sdf
+*.opendb
+MiniatureGame.vcxproj
+*.sln
+MiniatureGame.vcxproj.filters
+*.user
+MiniatureGame.VC.db
