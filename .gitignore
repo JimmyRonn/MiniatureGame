@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.obj
+Debug/camera.obj.enc
+*.dll
+Debug/MiniatureGame.Build.CppClean.log
+*.exe
+Debug/MiniatureGame.log
+*.pdb
+Debug/vc140.idb
+*.lastbuildstate
+*.tlog
+Debug/MiniatureGame.ilk
+*.3ds
+models/star-wars-x-wing.blend
